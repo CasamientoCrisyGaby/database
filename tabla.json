@@ -1,26 +1,314 @@
 [
     {
         "id": 1,
-        "nombre": "Harry",
-        "email": "harry@bluuweb.cl",
-        "estado": false
+        "nombre": "Gianluca Remedio",
+        "cant": 1
+        
     },
     {
         "id": 2,
-        "nombre": "Debra",
-        "email": "deb@bluuweb.cl",
-        "estado": false
+        "nombre": "Lili & Franco",
+        "cant": 2
+        
     },
     {
         "id": 3,
-        "nombre": "Dexter",
-        "email": "dex@bluuweb.cl",
-        "estado": true
+        "nombre": "Claudia & familia",
+        "cant": 4
+        
     },
     {
         "id": 4,
-        "nombre": "Rita",
-        "email": "rita@bluuweb.cl",
-        "estado": true
+        "nombre": "Giorgio & Marta",
+        "cant": 2
+    
+    },
+    {
+        "id": 5,
+        "nombre": "Walter & Noe",
+        "cant": 2
+        
+    },
+    {
+        "id": 6,
+        "nombre": "Marce & Lidia",
+        "cant": 2
+        
+    },
+    {
+        "id": 7,
+        "nombre": "Diego & Andrea",
+        "cant": 2
+        
+    },
+    {
+        "id": 8,
+        "nombre": "Juan & Simón",
+        "cant": 2
+        
+    },
+    {
+        "id": 9,
+        "nombre": "Claudio & Luciana",
+        "cant": 2
+        
+    },
+    {
+        "id": 10,
+        "nombre": "Eli & Luciano",
+        "cant": 2
+        
+    },
+    {
+        "id": 11,
+        "nombre": "Tito",
+        "cant": 1
+        
+    },
+    {
+        "id": 12,
+        "nombre": "Claudia",
+        "cant": 1
+        
+    },
+    {
+        "id": 13,
+        "nombre": "Gilda",
+        "cant": 1
+        
+    },
+    {
+        "id": 14,
+        "nombre": "Kari",
+        "cant": 1
+        
+    },
+    {
+        "id": 15,
+        "nombre": "Faby",
+        "cant": 1
+        
+    },
+    {
+        "id": 16,
+        "nombre": "Vivi",
+        "cant": 1
+        
+    },
+    {
+        "id": 17,
+        "nombre": "Mary",
+        "cant": 1
+        
+    },
+    {
+        "id": 18,
+        "nombre": "Ari",
+        "cant": 1
+        
+    },
+    {
+        "id": 19,
+        "nombre": "Nani & familia",
+        "cant": 4
+        
+    },
+    {
+        "id": 20,
+        "nombre": "Pato & familia",
+        "cant": 4
+        
+    },
+    {
+        "id": 21,
+        "nombre": "Carmen & Romi",
+        "cant": 2
+        
+    },
+    {
+        "id": 22,
+        "nombre": "Vane & familia",
+        "cant": 8
+        
+    },
+    {
+        "id": 23,
+        "nombre": "Beatriz & Pepe",
+        "cant": 2
+        
+    },
+    {
+        "id": 24,
+        "nombre": "Pablo Coco",
+        "cant": 1
+        
+    },
+    {
+        "id": 25,
+        "nombre": "Romina Coco",
+        "cant": 1
+        
+    },
+    {
+        "id": 26,
+        "nombre": "Luciana & Mike",
+        "cant": 2
+        
+    },
+    {
+        "id": 27,
+        "nombre": "Jonathan & Eugenia",
+        "cant": 2
+        
+    },
+    {
+        "id": 28,
+        "nombre": "Anto & Tere",
+        "cant": 2
+        
+    },
+    {
+        "id": 29,
+        "nombre": "Carlitos & Pao",
+        "cant": 2
+        
+    },
+    {
+        "id": 30,
+        "nombre": "Anabella & Germán",
+        "cant": 2
+        
+    },
+    {
+        "id": 31,
+        "nombre": "Fabrizio & Karina",
+        "cant": 2
+        
+    },
+    {
+        "id": 32,
+        "nombre": "Pablo & Daniela",
+        "cant": 2
+        
+    },
+    {
+        "id": 33,
+        "nombre": "Marcelo & Juli",
+        "cant": 2
+        
+    },
+    {
+        "id": 34,
+        "nombre": "Sergio & Flavia",
+        "cant": 2
+        
+    },
+    {
+        "id": 35,
+        "nombre": "Tía Pina",
+        "cant": 1
+        
+    },
+    {
+        "id": 36,
+        "nombre": "Mauricio",
+        "cant": 1
+        
+    },
+    {
+        "id": 37,
+        "nombre": "Tony, Marce & Sofi",
+        "cant": 3
+        
+    },
+    {
+        "id": 38,
+        "nombre": "Fabi & Pato",
+        "cant": 2
+        
+    },
+    {
+        "id": 39,
+        "nombre": "Negro Juan",
+        "cant": 1
+        
+    },
+    {
+        "id": 40,
+        "nombre": "Marce & Lore",
+        "cant": 2
+        
+    },
+    {
+        "id": 41,
+        "nombre": "Pablo & Cintia",
+        "cant": 2
+        
+    },
+    {
+        "id": 42,
+        "nombre": "Pablo & Dani",
+        "cant": 2
+        
+    },
+    {
+        "id": 43,
+        "nombre": "Pablo & Vero",
+        "cant": 2
+        
+    },
+    {
+        "id": 44,
+        "nombre": "Guada & Herni",
+        "cant": 2
+        
+    },
+    {
+        "id": 45,
+        "nombre": "Fer, Vani & Licha",
+        "cant": 3
+        
+    },
+    {
+        "id": 46,
+        "nombre": "Nico & Ale",
+        "cant": 2
+        
+    },
+    {
+        "id": 47,
+        "nombre": "Marce & Laura",
+        "cant": 2
+        
+    },
+    {
+        "id": 48,
+        "nombre": "Vane & Nico",
+        "cant": 2
+        
+    },
+    {
+        "id": 49,
+        "nombre": "Diego & Daniela",
+        "cant": 2
+        
+    },
+    {
+        "id": 50,
+        "nombre": "Alejandro",
+        "cant": 1
+        
+    },
+    {
+        "id": 51,
+        "nombre": "Tomás & Laura",
+        "cant": 2
+        
+    },
+    {
+        "id": 52,
+        "nombre": "Gianlu & Tomy",
+        "cant": 2
+        
     }
 ]
